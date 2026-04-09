@@ -66,8 +66,244 @@
       "salary": "850-1050€/mois",
       "contractType": "Stage de 6 mois",
       "startDate": "2024-10-01"
+    },
+    {
+      "id": 5,
+      "title": "Développeur Backend Java",
+      "company": "EnterpriseSys",
+      "location": "Lille, France",
+      "type": "Stage",
+      "description": "Conception et maintenance d'API RESTful robustes sous Java Spring Boot.",
+      "salary": "800-1000€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 6,
+      "title": "Ingénieur DevOps",
+      "company": "CloudTech",
+      "location": "Nantes, France",
+      "type": "Stage",
+      "description": "Déploiement de pipelines CI/CD et gestion d'infrastructures avec Docker et Kubernetes.",
+      "salary": "950-1200€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-10-15"
+    },
+    {
+      "id": 7,
+      "title": "UX/UI Designer",
+      "company": "CreativeAgency",
+      "location": "Bordeaux, France",
+      "type": "Stage",
+      "description": "Création de maquettes, prototypage sur Figma et recherche utilisateur pour des applications web.",
+      "salary": "700-900€/mois",
+      "contractType": "Stage de 4 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 8,
+      "title": "Data Scientist",
+      "company": "AIVision",
+      "location": "Paris, France",
+      "type": "Stage",
+      "description": "Création et entraînement de modèles de Machine Learning appliqués à l'analyse prédictive.",
+      "salary": "1000-1300€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-15"
+    },
+    {
+      "id": 9,
+      "title": "Développeur Android Kotlin",
+      "company": "DroidMakers",
+      "location": "Strasbourg, France",
+      "type": "Stage",
+      "description": "Création de nouvelles fonctionnalités sur notre application e-commerce Android avec Kotlin.",
+      "salary": "850-1000€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-11-01"
+    },
+    {
+      "id": 10,
+      "title": "Ingénieur Cybersécurité Junior",
+      "company": "SecureNet",
+      "location": "Rennes, France",
+      "type": "Stage",
+      "description": "Participation aux audits de sécurité, tests d'intrusion et sécurisation des réseaux internes.",
+      "salary": "900-1100€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 11,
+      "title": "Développeur Python Django",
+      "company": "WebFactory",
+      "location": "Montpellier, France",
+      "type": "Stage",
+      "description": "Développement de solutions web côté serveur et optimisation des bases de données PostgreSQL.",
+      "salary": "800-1000€/mois",
+      "contractType": "Stage de 5 mois",
+      "startDate": "2024-10-01"
+    },
+    {
+      "id": 12,
+      "title": "Développeur Frontend Angular",
+      "company": "BankIt",
+      "location": "Marseille, France",
+      "type": "Stage",
+      "description": "Refonte complète du portail client B2B en utilisant Angular 17 et RxJS.",
+      "salary": "850-1050€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 13,
+      "title": "Chef de Projet IT",
+      "company": "DigitalConsulting",
+      "location": "Remote",
+      "type": "Stage",
+      "description": "Accompagnement des équipes Agiles (Scrum), suivi des sprints et rédaction des spécifications.",
+      "salary": "800-950€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-15"
+    },
+    {
+      "id": 14,
+      "title": "Développeur Blockchain / Web3",
+      "company": "CryptoLab",
+      "location": "Paris, France",
+      "type": "Stage",
+      "description": "Développement de Smart Contracts avec Solidity et intégration Web3.js.",
+      "salary": "1000-1200€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-10-01"
+    },
+    {
+      "id": 15,
+      "title": "Machine Learning Engineer",
+      "company": "DeepTech Solutions",
+      "location": "Grenoble, France",
+      "type": "Stage",
+      "description": "Stage orienté R&D sur le traitement du langage naturel (NLP) et les LLM.",
+      "salary": "950-1250€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 16,
+      "title": "Développeur C# / .NET",
+      "company": "SoftWorks",
+      "location": "Toulouse, France",
+      "type": "Stage",
+      "description": "Maintenance et évolution d'applications logicielles internes sous .NET 8 et Blazor.",
+      "salary": "800-1000€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-15"
+    },
+    {
+      "id": 17,
+      "title": "Administrateur Systèmes et Réseaux",
+      "company": "InfraGroup",
+      "location": "Lille, France",
+      "type": "Stage",
+      "description": "Support N2/N3, gestion du parc informatique et administration des serveurs Linux/Windows.",
+      "salary": "750-950€/mois",
+      "contractType": "Stage de 4 mois",
+      "startDate": "2024-08-01"
+    },
+    {
+      "id": 18,
+      "title": "Développeur PHP Symfony",
+      "company": "E-Shop Pro",
+      "location": "Lyon, France",
+      "type": "Stage",
+      "description": "Participation au développement d'un ERP e-commerce sur mesure basé sur Symfony 7.",
+      "salary": "800-1000€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 19,
+      "title": "QA Automation Engineer",
+      "company": "QualityFirst",
+      "location": "Nantes, France",
+      "type": "Stage",
+      "description": "Création de scénarios de tests automatisés avec Cypress et Selenium pour nos applications web.",
+      "salary": "850-1050€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-10-01"
+    },
+    {
+      "id": 20,
+      "title": "Développeur Ruby on Rails",
+      "company": "SaaS Platform",
+      "location": "Bordeaux, France",
+      "type": "Stage",
+      "description": "Développement de nouvelles features pour notre plateforme SaaS en Ruby on Rails.",
+      "salary": "850-1050€/mois",
+      "contractType": "Stage de 5 mois",
+      "startDate": "2024-09-15"
+    },
+    {
+      "id": 21,
+      "title": "Cloud Architect Junior",
+      "company": "AWS Partners",
+      "location": "Paris, France",
+      "type": "Stage",
+      "description": "Conception d'architectures cloud scalables et optimisation des coûts sur Amazon Web Services.",
+      "salary": "1000-1200€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 22,
+      "title": "Développeur Jeux Vidéo (Unity)",
+      "company": "IndieStudio",
+      "location": "Montpellier, France",
+      "type": "Stage",
+      "description": "Programmation de mécaniques de jeu en C# sur Unity 3D pour un projet d'aventure indépendant.",
+      "salary": "700-900€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-10-01"
+    },
+    {
+      "id": 23,
+      "title": "Analyste SOC",
+      "company": "DefensIT",
+      "location": "Rennes, France",
+      "type": "Stage",
+      "description": "Surveillance des événements de sécurité, analyse des alertes SIEM et réponse aux incidents.",
+      "salary": "900-1100€/mois",
+      "contractType": "Stage de 6 mois",
+      "startDate": "2024-09-01"
+    },
+    {
+      "id": 24,
+      "title": "Développeur Web 3D",
+      "company": "MetaVision",
+      "location": "Remote",
+      "type": "Stage",
+      "description": "Développement d'expériences immersives dans le navigateur utilisant Three.js et WebGL.",
+      "salary": "850-1100€/mois",
+      "contractType": "Stage de 5 mois",
+      "startDate": "2024-11-01"
     }
   ],
   "favorites": [],
-  "searchHistory": []
+  "searchHistory": [
+    {
+      "query": "de",
+      "createdAt": "2026-04-09T13:24:17.806Z",
+      "id": 1
+    },
+    {
+      "query": "full",
+      "createdAt": "2026-04-09T13:24:23.832Z",
+      "id": 2
+    },
+    {
+      "query": "full",
+      "createdAt": "2026-04-09T13:24:35.701Z",
+      "id": 3
+    }
+  ]
 }
