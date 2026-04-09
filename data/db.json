@@ -13,6 +13,13 @@
       "password": "admin123",
       "name": "Admin User",
       "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "email": "antoine.perichon1@gmail.com",
+      "password": "Nik3T4M3re!",
+      "name": "Antoine PERICHON",
+      "createdAt": "2026-04-09T13:02:11.301Z",
+      "id": 3
     }
   ],
   "offers": [
@@ -64,4 +71,3 @@
   "favorites": [],
   "searchHistory": []
 }
-
