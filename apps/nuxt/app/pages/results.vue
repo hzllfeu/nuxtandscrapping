@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { Offer } from '~/composables/useOffers'
 import { FunnelIcon, XMarkIcon } from '@heroicons/vue/24/outline'
+import { addSearchHistory } from '~/composables/useSearchHistory'
 
 useSeoMeta({
   title: 'Offres de stage',
@@ -28,6 +29,12 @@ async function loadOffers() {
   errorMessage.value = ''
   try {
     offers.value = q ? await searchOffers(q) : await getOffers()
+    if (q) {
+      try {
+        await addSearchHistory(q)
+      } catch {
+      }
+    }
   } catch (e: unknown) {
     const err = e as { error?: string }
     isError.value = true
