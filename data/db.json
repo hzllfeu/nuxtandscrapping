@@ -16,7 +16,7 @@
     },
     {
       "email": "antoine.perichon1@gmail.com",
-      "password": "Nik3T4M3re!",
+      "password": "Test1234",
       "name": "Antoine PERICHON",
       "createdAt": "2026-04-09T13:02:11.301Z",
       "id": 3
@@ -289,21 +289,5 @@
     }
   ],
   "favorites": [],
-  "searchHistory": [
-    {
-      "query": "de",
-      "createdAt": "2026-04-09T13:24:17.806Z",
-      "id": 1
-    },
-    {
-      "query": "full",
-      "createdAt": "2026-04-09T13:24:23.832Z",
-      "id": 2
-    },
-    {
-      "query": "full",
-      "createdAt": "2026-04-09T13:24:35.701Z",
-      "id": 3
-    }
-  ]
+  "searchHistory": []
 }
